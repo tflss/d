@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Curso de Introdução ao Uso do R
 
 You can use the [editor on GitHub](https://github.com/tflss/d/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
